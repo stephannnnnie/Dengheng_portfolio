@@ -1,0 +1,23 @@
+{
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "public/map.json": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 231,
+                "y": 143.75
+            }
+        },
+        "public/map.json#spritesheet": {
+            "scaleInDock": 3
+        }
+    },
+    "openFiles": [
+        "public/map.json"
+    ],
+    "recentFiles": [
+        "public/map.json"
+    ]
+}
